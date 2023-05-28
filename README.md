@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQEdIFAnDVhyrw/profile-displaybackgroundimage-shrink_350_1400/0/1685256866563?e=1691020800&v=beta&t=dS06pCaS3pEArrN8CapGpcxCW0l4L8J_gcqx_ddaJ3g)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQEdIFAnDVhyrw/profile-displaybackgroundimage-shrink_350_1400/0/1685256866563?e=1691020800&v=beta&t=dS06pCaS3pEArrN8CapGpcxCW0l4L8J_gcqx_ddaJ3g)
 
 <h3 align="center">You’re either the one that creates the automation or you’re getting automated. </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/88/e5/a4/88e5a4a52f0d7725c5e56364422b79fc.gif">
