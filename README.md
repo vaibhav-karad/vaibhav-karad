@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://vaibhavkarad.bio.link]
 
-- 💬 Ask me about **Google CLoud, Linux, and CI/CD**
+- 💬 Ask me about **Google Cloud, Linux, and CI/CD**
 
-- 📫 How to reach me **devopskid@engineer.com**
+- 📫 How to reach me **vaibhav.karad@engineer.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
