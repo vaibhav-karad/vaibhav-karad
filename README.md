@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Trivia App](https://github.com/vaibhav-karad/trivia-app)
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://vaibhavkarad.bio.link]
 
