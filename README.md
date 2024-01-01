@@ -1,15 +1,15 @@
-<h3 align="center">You’re either the one that creates the automation or you’re getting automated. </h3>
+<h3 align="centre">You’re either the one that creates the automation or you’re getting automated. </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/88/e5/a4/88e5a4a52f0d7725c5e56364422b79fc.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-karad&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-karad" /> </p>
 
-- 🔭 I’m currently working on [Trivia App](https://github.com/vaibhav-karad/trivia-app)
+- 🔭 I’m currently working 3 tier ARC application  [Trivia App](https://github.com/vaibhav-karad/trivia-app)
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Teraform**
 
 - 👨‍💻 All of my projects are available at [https://vaibhavkarad.bio.link]
 
-- 💬 Ask me about **Google Cloud, Linux, and CI/CD**
+- 💬 Ask me about **GCP, AWS & AZURE Cloud, Linux, and CI/CD**
 
 - 📫 How to reach me **vaibhav.karad@engineer.com**
 
