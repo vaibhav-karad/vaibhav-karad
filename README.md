@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-karad&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-karad" /> </p>
 
-- 🔭 I’m currently working 3 tier ARC application  [Trivia App](https://github.com/vaibhav-karad/trivia-app)
+- 🔭 Completed 3 tier ARC application  [Trivia App](https://github.com/vaibhav-karad/trivia-app)
 
-- 🌱 I’m currently learning **Teraform**
+- 🌱 I’m currently learning **Terraform**
 
-- 👨‍💻 All of my projects are available at [https://vaibhavkarad.bio.link]
+- 👨‍💻 All of my projects are available at [https://bio.link/vaibhavkarad]
 
-- 💬 Ask me about **GCP, AWS & AZURE Cloud, Linux, and CI/CD**
+- 💬 Ask me about **GCP, AWS Cloud, Linux, and CI/CD**
 
-- 📫 How to reach me **vaibhav.karad@engineer.com**
+- 📫 How to reach me **thevaibhavkarad@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
