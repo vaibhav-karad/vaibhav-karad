@@ -1,35 +1,97 @@
-<h3 align="centre">You’re either the one that creates the automation or you’re getting automated. </h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/88/e5/a4/88e5a4a52f0d7725c5e56364422b79fc.gif">
+<h1 align="center">Hey there, I'm Vaibhav Karad 👨‍💻</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-karad&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-karad" /> </p>
+<h4 align="center"><em>“You’re either the one that creates the automation or you’re getting automated.”</em></h4>
 
-- 🔭 I’m currently working 3 tier ARC application  [Trivia App](https://github.com/vaibhav-karad/trivia-app)
-
-- 🌱 I’m currently learning **Teraform**
-
-- 👨‍💻 All of my projects are available at [https://vaibhavkarad.bio.link]
-
-- 💬 Ask me about **GCP, AWS & AZURE Cloud, Linux, and CI/CD**
-
-- 📫 How to reach me **vaibhav.karad@engineer.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/vaibhav-karad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vaibhav-karad" height="30" width="40" /></a>
-<a href="https://twitter.com/vaibhav__karad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhav__karad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/vaibhavkarad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vaibhavkarad" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/vaibhav-karad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="vaibhav-karad" height="30" width="40" /></a>
+<p align="center">
+  <img src="assets/github-banner.jpg" width="400" style="margin: 15px 0;" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vaibhav-karad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav-karad&show_icons=true&locale=en&layout=compact" alt="vaibhav-karad" /></p>
+## 🔧 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav-karad&show_icons=true&locale=en" alt="vaibhav-karad" /></p>
+I'm a **DevOps Engineer at Wipro** with 3+ years of experience in automation, CI/CD, infrastructure, and cloud platforms like **Google Cloud** and **AWS**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-karad&" alt="vaibhav-karad" /></p>
+- 💼 Building robust cloud-native DevOps pipelines  
+- 🌱 Currently learning **Harness** and improving in **Golang**  
+- 🚀 Created a ARC deployment: [**Weatherly App**](https://karadhub.github.io/weatherly/)  
+- ✍️ Writing about my DevOps journey on [Medium](https://medium.com/@karadhub)  
+
+
+---
+
+## 🛠️ Tech Stack
+
+| Category                    | Tools & Technologies |
+|-----------------------------|----------------------|
+| **Cloud**                   | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) |
+| **Containers & Orchestration** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) |
+| **Infrastructure as Code** | ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white) ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=flat&logo=vagrant&logoColor=white) |
+| **CI/CD**                   | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Harness](https://img.shields.io/badge/Harness-3949AB?style=flat&logo=harness&logoColor=white) |
+| **Artifact Repositories**  | ![Nexus](https://img.shields.io/badge/Nexus-143055?style=flat&logo=sonatype&logoColor=white) |
+| **Monitoring & Logging**   | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) |
+| **Messaging & Streaming**  | ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![Pub/Sub](https://img.shields.io/badge/GCP%20Pub/Sub-4285F4?style=flat&logo=googlecloud&logoColor=white) |
+| **Languages**              | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) |
+| **Databases**              | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **Web & Servers**          | ![NGINX](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
+| **Operating Systems**      | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+
+---
+
+## 📬 Connect with Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thevaibhavkarad@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-karad)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/karadhub)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@karadhub)
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karadhub&show_icons=true&theme=default" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karadhub&layout=compact" width="25%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karadhub&theme=default" width="30%" />
+</p>
+
+---
+
+
+## 📘 Blog Posts
+📝 [Read my blog on](https://medium.com/@karadhub)[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@karadhub)
+
+## ✍️ Blog Highlights
+
+<p align="center">
+  <a href="https://medium.com/@karadhub" target="_blank">
+    <img src="assets/medium-preview.png" alt="Vaibhav Karad on Medium" width="800"/>
+  </a>
+</p>
+
+### 📚 Recent Posts
+- 📘 [Prepare for Google Cloud DevOps Professional Certification: Must-Know Tips](https://medium.com/@karadhub/prepare-for-google-cloud-devops-professional-certification-must-know-exam-tips-and-resources-for-5c9a394f21c4)  
+- 📗 [Mastering the Professional Cloud Architect Certification by Google Cloud](https://medium.com/@karadhub/mastering-the-professional-cloud-architect-certification-by-google-cloud-41c3d9c74f1)
+
+🔗 [Visit my full Medium profile →](https://medium.com/@karadhub)
+
+
+### 🌤 Weatherly App
+A fully deployed 3-tier ARC application that fetches real-time weather using OpenWeather API.
+🔗 [Live Demo](https://karadhub.github.io/weatherly/)  
+🛠️ Built using HTML, JS, CSS, and GitHub Pages
+
+
+## 📄 License
+This project is licensed under the [MIT License](LICENSE).  
+Feel free to fork or reuse with attribution.
+
+
+
+
+<p align="center">
+  🙏 Thank you for scrolling through my GitHub profile!  
+  <br/>
+  Made with ❤️ by <strong>Vaibhav Karad</strong>
+</p>
