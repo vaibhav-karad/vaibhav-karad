@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Vaibhav Karad 👨‍💻</h1>
+<h1 align="center">Hey there! I'm Vaibhav Karad 👨‍💻</h1>
 
 <h4 align="center"><em>“You’re either the one that creates the automation or you’re getting automated.”</em></h4>
 
@@ -20,7 +20,6 @@ I'm a **DevOps Engineer** with 3+ years of experience in automation, CI/CD, infr
 - ✍️ Writing about my DevOps journey on [Medium](https://medium.com/@karadhub)  
 
 
----
 
 ## 🛠️ Tech Stack
 
@@ -38,15 +37,6 @@ I'm a **DevOps Engineer** with 3+ years of experience in automation, CI/CD, infr
 | **Web & Servers**          | ![NGINX](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
 | **Operating Systems**      | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 
----
-
-## 📬 Connect with Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thevaibhavkarad@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-karad)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/karadhub)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@karadhub)
-
 
 ## 📊 GitHub Stats
 
@@ -56,35 +46,25 @@ I'm a **DevOps Engineer** with 3+ years of experience in automation, CI/CD, infr
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karadhub&theme=default" width="30%" />
 </p>
 
----
-
 
 ## 📘 Blog Posts
-
-
-### 📚 Recent Blog Posts
-
-| 🚀 | [**Prepare for Google Cloud DevOps Professional Certification**](https://medium.com/@karadhub/prepare-for-google-cloud-devops-professional-certification-must-know-exam-tips-and-resources-for-5c9a394f21c4)<br/><sub>*Must-know exam tips and preparation flow*</sub> |
-|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  🧠  | [**Mastering the Professional Cloud Architect Certification**](https://medium.com/@karadhub/mastering-the-professional-cloud-architect-certification-by-google-cloud-41c3d9c74f1)<br/><sub>*Step-by-step overview and key topics covered*</sub> |
-
 <p align="center">
   <a href="https://medium.com/@karadhub" target="_blank">
     <img src="assets/medium-cover.png" alt="Vaibhav Karad on Medium" width="800"/>
   </a>
 </p>
 
+### 📰 Recent Blog Posts
+
+🚀  [**Prepare for Google Cloud DevOps Professional Certification**](https://medium.com/@karadhub/prepare-for-google-cloud-devops-professional-certification-must-know-exam-tips-and-resources-for-5c9a394f21c4)<br/><sub>*Must-know exam tips and preparation flow*</sub> 
+
+🧠 [**Mastering the Professional Cloud Architect Certification**](https://medium.com/@karadhub/mastering-the-professional-cloud-architect-certification-by-google-cloud-41c3d9c74f1)<br/><sub>*Step-by-step overview and key topics covered*</sub> 
+
+
 <p align="center">
   👉 <a href="https://medium.com/@karadhub" target="_blank"><strong>Explore more on Medium</strong></a>
 </p>
 
-
-
-
-### 🌤 Weatherly App
-A fully deployed ARC application that fetches real-time weather using OpenWeather API.
-🔗 [Live Demo](https://karadhub.github.io/weatherly/)  
-🛠️ Built using HTML, JS, CSS, and GitHub Pages
 
 
 ## 📄 License
@@ -94,8 +74,26 @@ Feel free to fork or reuse with attribution.
 
 
 
+
 <p align="center">
-  🙏 Thank you for scrolling through my GitHub profile!  
+  You've reached the end, but the journey’s just beginning.  
   <br/>
   Made with ❤️ by <strong>Vaibhav Karad</strong>
 </p>
+
+<h2 align="center">Let's Connect</h2>
+
+<div align="center">
+  <a href="mailto:karadhub@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/vaibhav-karad">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/karadhub">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@karadhub">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"/>
+  </a>
+</div>
