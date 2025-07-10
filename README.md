@@ -3,7 +3,7 @@
 <h4 align="center"><em>“You’re either the one that creates the automation or you’re getting automated.”</em></h4>
 
 <p align="center">
-  <img src="assets/github-banner.jpg" width="400" style="margin: 15px 0;" />
+  <img src="assets/github-banner.jpg" width="500" style="margin: 15px 0;" />
 </p>
 
 <p align="left">
@@ -12,7 +12,7 @@
 
 ## 🔧 About Me
 
-I'm a **DevOps Engineer at Wipro** with 3+ years of experience in automation, CI/CD, infrastructure, and cloud platforms like **Google Cloud** and **AWS**.
+I'm a **DevOps Engineer** with 3+ years of experience in automation, CI/CD, infrastructure, and cloud platforms like **Google Cloud** and **AWS**.
 
 - 💼 Building robust cloud-native DevOps pipelines  
 - 🌱 Currently learning **Harness** and improving in **Golang**  
@@ -60,25 +60,29 @@ I'm a **DevOps Engineer at Wipro** with 3+ years of experience in automation, CI
 
 
 ## 📘 Blog Posts
-📝 [Read my blog on](https://medium.com/@karadhub)[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@karadhub)
 
-## ✍️ Blog Highlights
+
+### 📚 Recent Blog Posts
+
+| 🚀 | [**Prepare for Google Cloud DevOps Professional Certification**](https://medium.com/@karadhub/prepare-for-google-cloud-devops-professional-certification-must-know-exam-tips-and-resources-for-5c9a394f21c4)<br/><sub>*Must-know exam tips and preparation flow*</sub> |
+|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  🧠  | [**Mastering the Professional Cloud Architect Certification**](https://medium.com/@karadhub/mastering-the-professional-cloud-architect-certification-by-google-cloud-41c3d9c74f1)<br/><sub>*Step-by-step overview and key topics covered*</sub> |
 
 <p align="center">
   <a href="https://medium.com/@karadhub" target="_blank">
-    <img src="assets/medium-preview.png" alt="Vaibhav Karad on Medium" width="800"/>
+    <img src="assets/medium-cover.png" alt="Vaibhav Karad on Medium" width="800"/>
   </a>
 </p>
 
-### 📚 Recent Posts
-- 📘 [Prepare for Google Cloud DevOps Professional Certification: Must-Know Tips](https://medium.com/@karadhub/prepare-for-google-cloud-devops-professional-certification-must-know-exam-tips-and-resources-for-5c9a394f21c4)  
-- 📗 [Mastering the Professional Cloud Architect Certification by Google Cloud](https://medium.com/@karadhub/mastering-the-professional-cloud-architect-certification-by-google-cloud-41c3d9c74f1)
+<p align="center">
+  👉 <a href="https://medium.com/@karadhub" target="_blank"><strong>Explore more on Medium</strong></a>
+</p>
 
-🔗 [Visit my full Medium profile →](https://medium.com/@karadhub)
+
 
 
 ### 🌤 Weatherly App
-A fully deployed 3-tier ARC application that fetches real-time weather using OpenWeather API.
+A fully deployed ARC application that fetches real-time weather using OpenWeather API.
 🔗 [Live Demo](https://karadhub.github.io/weatherly/)  
 🛠️ Built using HTML, JS, CSS, and GitHub Pages
 
